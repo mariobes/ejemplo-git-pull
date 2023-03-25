@@ -1,2 +1,2 @@
-# practicar git pull
+# Practicando git pull
 Crear ejemplo git pull
